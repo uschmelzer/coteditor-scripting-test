@@ -96,8 +96,7 @@ $cmd .= 'fix';
 $cmd .= ' ';
 $cmd .= '--using-cache=no';
 $cmd .= ' ';
-//$cmd .= '"'. $file .'"';
-$cmd .= $file;
+$cmd .= '"'. $file .'"';
 
 if (0) {
 	// Set logfile 
