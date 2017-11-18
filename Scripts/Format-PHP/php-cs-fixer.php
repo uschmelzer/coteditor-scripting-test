@@ -70,8 +70,8 @@ if ($extension === 'php' || $extension === 'inc' || $extension === 'inc.php') {
 	
 } else {
 	// ERROR
-	// Filename is missing
-	// $argv[1] = File in editor
+	// Wrong file extension
+	// Seems to be no PHP file
 	throw new \Exception('Extension "'. $extension .'" is wrong', 1);
 }
 
