@@ -8,8 +8,14 @@ CotEditor test scripts using PHP, SH, JXA. Goal: Beautify PHP, HTML, JS code.
 See https://github.com/coteditor/SampleScripts for more information
 
 # RELATED
+## CotEditor
 https://github.com/coteditor/SampleScripts
 
 https://github.com/coteditor/CotEditor
 
 https://coteditor.com/
+
+## PHP Coding Standards Fixer
+http://cs.sensiolabs.org/
+
+https://github.com/FriendsOfPHP/PHP-CS-Fixer
